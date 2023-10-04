@@ -16,7 +16,7 @@ class OpenWeb {
     }
     catch (System.ComponentModel.Win32Exception ex)
     {
-        Console.WriteLine(couldntnhload);
+        Console.WriteLine(couldntn load);
     }
      }
 }
